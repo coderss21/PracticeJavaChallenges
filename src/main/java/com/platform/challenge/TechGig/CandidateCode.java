@@ -1,6 +1,5 @@
-package TechGig;
+package com.platform.challenge.TechGig;
 
-import java.io.*;
 import java.util.*;
 public class CandidateCode {
     public static void main(String args[] ) throws Exception {
